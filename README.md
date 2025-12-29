@@ -1,5 +1,5 @@
 🌟 Hi, I'm Okoro Patrick
-A Passionate Full-Stack Developer
+A Passionate Frontend Engineer
 
 Welcome to my GitHub profile! 👋 I'm Okoro Patrick, a highly motivated Full-Stack Developer with a strong passion for building modern, responsive, and scalable web applications. With a creative mindset and a problem-solving approach, I specialize in crafting solutions that bring ideas to life.
 
@@ -31,7 +31,6 @@ I’m always excited to collaborate on interesting projects, share ideas, and gr
 
 Frontend
 <p> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" style="margin: 10px;"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" style="margin: 10px;"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" style="margin: 10px;"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40" style="margin: 10px;"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" style="margin: 10px;"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="40" style="margin: 10px;"/> <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" style="margin: 10px;"/> </p>
-Backend
-<p> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="40" style="margin: 10px;"/> </p>
+
 Version Control & Deployment
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" style="margin: 10px;"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" style="margin: 10px;"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40" style="margin: 10px;"/> <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" height="40" style="margin: 10px;"/> </p>
