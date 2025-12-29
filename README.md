@@ -10,16 +10,12 @@ Frontend Development:
 🌟 Enhancing functionality using TypeScript
 ⚛️ Building dynamic user experiences with React.js and Next.js
 🎨 Styling with Tailwind CSS for clean and responsive designs
-Backend Development:
-
-🚀 Developing scalable and robust backends with Node.js
-Version Control & Deployment:
 
 🌐 Managing code versions with Git and GitHub
 📤 Deploying projects seamlessly using Vercel and GitHub Pages
 ✨ What I Offer
 Responsive Web Design: Creating user-friendly applications that look great on any device.
-End-to-End Development: From frontend design to backend architecture, delivering full-stack solutions.
+
 Continuous Improvement: Committed to staying at the forefront of technology to ensure optimal solutions.
 Collaboration: Thriving in teamwork and communication to bring ideas to fruition.
 🌍 My Vision
